@@ -147,6 +147,22 @@ a {
     /* Text */
     text-align: center;
 }
+#page-title{
+    /* Display */
+    margin: 0px;
+    /* Text */
+    font-family: var(--sans-serif);
+    font-size: 48px;
+    color: var(--medium-grey);
+}
+#page-description{
+    /* Display */
+    margin: 20px;
+    /* Text */
+    font-family: var(--sans-serif);
+    font-size: 28px;
+    color: var(--medium-grey);
+}
 
 /* Footer */
 #footer {
@@ -171,14 +187,6 @@ a {
 }
 #third-footer-line {
     padding: 25px 25px 50px 25px;
-}
-
-/* Remove Later */
-#test-text {
-    /* Text */
-    font-family: var(--sans-serif);
-    font-size: 32px;
-    color: var(--medium-grey);
 }
 
 
